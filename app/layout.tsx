@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Solar System",
-  description: "Realtime API demo",
+  title: "FutureTech",
+  description: "Modern product showcase",
   icons: {
     icon: "/icon.png",
   },
